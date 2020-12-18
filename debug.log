@@ -42,3 +42,19 @@
 [1214/035533.136:ERROR:exception_snapshot_win.cc(99)] thread ID 13340 not found in process
 [1214/035533.205:ERROR:exception_snapshot_win.cc(99)] thread ID 12688 not found in process
 [1214/035533.205:ERROR:exception_snapshot_win.cc(99)] thread ID 10308 not found in process
+[1218/234024.748:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1218/234534.947:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1218/234534.948:ERROR:exception_snapshot_win.cc(99)] thread ID 7488 not found in process
+[1218/235024.922:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
